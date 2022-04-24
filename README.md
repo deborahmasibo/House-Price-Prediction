@@ -1,6 +1,6 @@
 # Hass Consulting Company
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fjournal.firsttuesday.us%2Fcalifornia-tiered-home-pricing-2%2F1592%2F&psig=AOvVaw2xcMp3LBSfIc1KGIDnfCUH&ust=1650924230839000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjHwJjarfcCFQAAAAAdAAAAABAD)
+![alt text](https://img.etimg.com/thumb/msid-81312512,width-300,imgsize-128655,,resizemode-4,quality-100/house-sales.jpg)
 
 #### Prediction of house prices in King County, Washington State, USA; upto the year 2015. 
 #### By Deborah Masibo
