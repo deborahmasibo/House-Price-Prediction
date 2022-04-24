@@ -1,6 +1,6 @@
 # Hass Consulting Company
 
-![alt text](https://img.etimg.com/thumb/msid-81312512,width-300,imgsize-128655,,resizemode-4,quality-100/house-sales.jpg)
+![alt text](https://www.constrofacilitator.com/wp-content/uploads/2020/05/Housing-Demand.jpg)
 
 #### Prediction of house prices in King County, Washington State, USA; upto the year 2015. 
 #### By Deborah Masibo
