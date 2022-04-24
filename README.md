@@ -1,6 +1,6 @@
 # Hass Consulting Company
 
-![alt text](https://www.onthemarket.com/content/will-house-uk-house-prices-continue-to-rise-in-2016/)
+![alt text](https://www.onthemarket.com/content/wp-content/uploads/2016/01/2016-House-prices-lead.gif)
 
 #### Prediction of house prices in King County, Washington State, USA; upto the year 2015. 
 #### By Deborah Masibo
